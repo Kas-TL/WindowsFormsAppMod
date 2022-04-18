@@ -1,0 +1,11 @@
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\bin\Debug\WindowsFormsAppMod.exe.config
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\bin\Debug\WindowsFormsAppMod.exe
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\bin\Debug\WindowsFormsAppMod.pdb
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.Properties.Resources.resources
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.exe
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.pdb
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.главное.resources
+C:\Users\Роман\Desktop\Mod\WindowsFormsAppMod\WindowsFormsAppMod\obj\Debug\WindowsFormsAppMod.Корзина.resources
