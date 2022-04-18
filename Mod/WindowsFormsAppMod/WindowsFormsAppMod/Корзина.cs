@@ -19,8 +19,7 @@ namespace WindowsFormsAppMod
 
         private void button2_Click(object sender, EventArgs e)
         {
-            главное f = new главное ();
-            f.Show();
+            this.Close();
         }
     }
 }
